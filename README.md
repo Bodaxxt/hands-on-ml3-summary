@@ -1,8 +1,8 @@
-# 📘 Hands-On ML 3rd Edition – Summary
+#  Hands-On ML 3rd Edition – Summary
 
 This repo contains my personal summary, key concepts, and exercise solutions for each chapter of **"Hands‑On Machine Learning with Scikit‑Learn, Keras & TensorFlow"** by Aurélien Géron (3rd Edition).
 
-## 📂 Structure
+##  Structure
 
 - Each chapter has its own folder.
 - Inside each folder:
@@ -15,8 +15,8 @@ This repo contains my personal summary, key concepts, and exercise solutions for
 | Chapter | Status |
 |---------|--------|
 | 1 | ✅ Done |
-| 2 | 🔄 In progress |
-| ... | ... |
+| 2 | ✅ Done |
+| 3| 🔄 In progress |
 
 ## 📌 Why this repo?
 

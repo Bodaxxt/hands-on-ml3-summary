@@ -16,7 +16,8 @@ This repo contains my personal summary, key concepts, and exercise solutions for
 |---------|--------|
 | 1 | ✅ Done |
 | 2 | ✅ Done |
-| 3| 🔄 In progress |
+| 3|✅ Done |
+| 4| 🔄 In progress |
 
 ## 📌 Why this repo?
 
